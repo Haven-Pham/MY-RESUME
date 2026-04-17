@@ -31,19 +31,18 @@ Recommendation: Maintain moderate control with monthly cycle counting and standa
 Recommendation: Apply loose control, semi-annual cycle counting, and automate reordering processes to minimize administrative costs.
 
 📊 Data Visualization
+<img src="abc_pie_chart.png" alt="ABC Classification Distribution" />
 
 🚀 How to Run the Project
 
 Clone this repository:
 
-git clone https://github.com/your-username/MY-RESUME.git
-
+<pre><code>git clone https://www.google.com/search?q=https://github.com/your-username/MY-RESUME.git</code></pre>
 
 Install the required dependencies:
 
-pip install pandas numpy matplotlib seaborn
-
+<pre><code>pip install pandas numpy matplotlib seaborn</code></pre>
 
 Run the analysis notebook:
 
-Open the "ABC_Analysis_Code.ipynb" file using Jupyter Notebook or Google Colab, then run all cells to see the classification and visualizations.
+<pre><code>Open the "ABC_Analysis_Code.ipynb" file using Jupyter Notebook or Google Colab, then run all cells to see the classification and visualizations.</code></pre>
