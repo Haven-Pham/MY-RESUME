@@ -32,21 +32,18 @@ Recommendation: Apply loose control, semi-annual cycle counting, and automate re
 
 📊 Data Visualization
 
-![ABC Chart](abc_pie_chart.png)
+🚀 How to Run the Project
 
-## 🚀 How to Run the Project
+Clone this repository:
 
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/your-username/supply-chain-abc-analysis.git
+git clone https://github.com/your-username/MY-RESUME.git
 
-2. Install the required dependencies:
+
+Install the required dependencies:
 
 pip install pandas numpy matplotlib seaborn
 
-3. Run the analysis script:
 
-python abc_inventory_analysis.ipynb
+Run the analysis notebook:
 
-
-The script will automatically generate the mock dataset (sales_data.csv), perform the classification, output the results (abc_analysis_results.csv), and save the visualization chart.
+Open the "ABC_Analysis_Code.ipynb" file using Jupyter Notebook or Google Colab, then run all cells to see the classification and visualizations.
