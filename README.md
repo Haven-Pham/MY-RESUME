@@ -32,7 +32,7 @@ Recommendation: Apply loose control, semi-annual cycle counting, and automate re
 
 📊 Data Visualization
 
-
+![ABC Chart](abc_pie_chart.png)
 
 🚀 How to Run the Project
 
